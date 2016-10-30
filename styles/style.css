@@ -22,3 +22,21 @@
 .panel-group{
   margin-bottom: -5%;
 }
+.form-login-my {
+  margin-top: 10%;
+  padding: 20px;
+  border-color: #888888;
+  border-style: solid;
+  border-radius: 10px;
+  background-color: #222222;
+}
+.label-login-my {
+  color: #555555;
+}
+.footer-default-my {
+  margin-top: 1%;
+}
+.form-search-leftNav-my {
+  margin-top: 10%;
+  color: #888888;
+}
